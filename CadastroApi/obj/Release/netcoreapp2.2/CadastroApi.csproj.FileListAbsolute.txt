@@ -1,0 +1,14 @@
+D:\DESENV\DotNet\Projeto-WPF-API\Backend\CadastroApi\CadastroApi\bin\Release\netcoreapp2.2\CadastroApi.deps.json
+D:\DESENV\DotNet\Projeto-WPF-API\Backend\CadastroApi\CadastroApi\bin\Release\netcoreapp2.2\CadastroApi.runtimeconfig.json
+D:\DESENV\DotNet\Projeto-WPF-API\Backend\CadastroApi\CadastroApi\bin\Release\netcoreapp2.2\CadastroApi.runtimeconfig.dev.json
+D:\DESENV\DotNet\Projeto-WPF-API\Backend\CadastroApi\CadastroApi\bin\Release\netcoreapp2.2\CadastroApi.dll
+D:\DESENV\DotNet\Projeto-WPF-API\Backend\CadastroApi\CadastroApi\bin\Release\netcoreapp2.2\CadastroApi.pdb
+D:\DESENV\DotNet\Projeto-WPF-API\Backend\CadastroApi\CadastroApi\obj\Release\netcoreapp2.2\CadastroApi.csprojAssemblyReference.cache
+D:\DESENV\DotNet\Projeto-WPF-API\Backend\CadastroApi\CadastroApi\obj\Release\netcoreapp2.2\CadastroApi.csproj.CoreCompileInputs.cache
+D:\DESENV\DotNet\Projeto-WPF-API\Backend\CadastroApi\CadastroApi\obj\Release\netcoreapp2.2\CadastroApi.RazorAssemblyInfo.cache
+D:\DESENV\DotNet\Projeto-WPF-API\Backend\CadastroApi\CadastroApi\obj\Release\netcoreapp2.2\CadastroApi.RazorAssemblyInfo.cs
+D:\DESENV\DotNet\Projeto-WPF-API\Backend\CadastroApi\CadastroApi\obj\Release\netcoreapp2.2\CadastroApi.AssemblyInfoInputs.cache
+D:\DESENV\DotNet\Projeto-WPF-API\Backend\CadastroApi\CadastroApi\obj\Release\netcoreapp2.2\CadastroApi.AssemblyInfo.cs
+D:\DESENV\DotNet\Projeto-WPF-API\Backend\CadastroApi\CadastroApi\obj\Release\netcoreapp2.2\CadastroApi.RazorTargetAssemblyInfo.cache
+D:\DESENV\DotNet\Projeto-WPF-API\Backend\CadastroApi\CadastroApi\obj\Release\netcoreapp2.2\CadastroApi.dll
+D:\DESENV\DotNet\Projeto-WPF-API\Backend\CadastroApi\CadastroApi\obj\Release\netcoreapp2.2\CadastroApi.pdb
