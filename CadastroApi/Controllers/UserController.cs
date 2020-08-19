@@ -85,7 +85,7 @@ namespace CadastroApi.Controllers
                 {
                     try
                     {
-                        if (UserExists(user) == false)
+                        if (UserExists(user.Id) == true)
                         {
                             _context.Update(user);
                             await _context.SaveChangesAsync();
