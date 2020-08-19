@@ -11,6 +11,7 @@ namespace CadastroApi.Controllers
     [Route("api/[controller]")]
     [Produces("application/json")]
     [ApiController]
+
     public class UserController : ControllerBase
     {
         //variavel de contexto para acesso as utilidades do entity
